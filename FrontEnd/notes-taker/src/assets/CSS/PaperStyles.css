@@ -1,0 +1,26 @@
+
+  
+  .notepad {
+    
+   
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 0 0 10px 10px;
+    overflow: hidden;
+  }
+  
+  .top {
+    width: 100%;
+    background: #333;
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .paper {
+   
+    min-height: 10vh;
+    
+    background: repeating-linear-gradient(#F1EDE9, #F1EDE9 31px, #94ACD4 31px, #94ACD4 32px);
+    font-family: "Shadows Into Light", cursive;
+    line-height: 28px;
+    outline: 0;
+    font-size: 16px;
+  }
